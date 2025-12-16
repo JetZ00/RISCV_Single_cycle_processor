@@ -1,0 +1,4 @@
+*.jar linguist-vendored
+*.circ linguist-vendored
+instmem.txt linguist-language=Assembly
+datamem.txt linguist-language=Assembly
